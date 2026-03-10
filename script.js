@@ -1,5 +1,3 @@
-console.log(alert("Netflix Pakistan directly belongs to Aujla Studio, Netflix World will design its new unique layout soon"));
-
 document.addEventListener('DOMContentLoaded', function() {
     const audio = document.getElementById('myAudio');
     const btn = document.querySelector('.btn-red');
